@@ -14,7 +14,7 @@
      |Intermediate Operations |Terminal Operations
      |---- | ---------
      
-     | ***filter(), map(), flatMap(), distinct(), sorted(), peek().*** | ***count(), forEach(), collect(), min(), max(), findAny(), findFirst(), anyMatch(), allMatch(), noneMatch().*** |
+     | filter(), map(), flatMap(), distinct(), sorted(), peek() | count(), forEach(), collect(), min(), max(), findAny(), findFirst(), anyMatch(), allMatch(), noneMatch() |
      
      
      
