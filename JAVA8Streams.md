@@ -11,9 +11,9 @@
      Functionality:
      Operations: It offers a rich set of operations like filtering, mapping, reducing, sorting, etc., allowing you to manipulate and analyze data efficiently.
      Pipelining: Operations can be chained together, forming a pipeline that processes the data step-by-step. This makes code more readable and avoids nested loops.|
-      #Intermediate Operations|
+      ### Intermediate Operations
       ***filter(), map(), flatMap(), distinct(), sorted(), peek()***
-      #Terminal Operations|
+      ### Terminal Operations
       ***count(), forEach(), collect(), min(), max(), findAny(), findFirst(), anyMatch(), allMatch(), noneMatch()***
      
      
