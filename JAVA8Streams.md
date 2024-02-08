@@ -7,4 +7,4 @@
 
 
 1. ### What is Stream API?
-2.processing collections of objects
+     Stream API used for  processing collections of objects
